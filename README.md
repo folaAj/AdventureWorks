@@ -1,7 +1,7 @@
 # AdventureWorks
 This project was to perform analysis for Adventure Works Bikes customer data.
 
-It was posed during Microsft's Principles of Machine Learning Certification and I thought it was interesting.
+It was posed during Microsoft's Principles of Machine Learning Certification and I thought it was interesting.
 
 From the available data provided - Cutomer Information, Customer Spending and Customer Bike Buyer data. We needed to provide two things:
 1. We need to predict if a customer will buy a bike or not given the above information.
